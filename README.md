@@ -76,7 +76,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Your Name** - *Initial work* - [YourUsername](https://github.com/YourUsername)
+* **Your Name** - *Initial work* - [Yzec7](https://github.com/yzec7/)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
