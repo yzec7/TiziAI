@@ -6,7 +6,6 @@
 
 You can access restricted websites through a network proxy. Tools and tutorials are provided here!
 
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
