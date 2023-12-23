@@ -90,6 +90,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
-```
-
-这个模板是基本的和通用的，可根据具体项目的需求进行修改和扩展。
